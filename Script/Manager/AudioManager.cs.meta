@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a2db9376c342d4645bea8765b5633e9f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RifleFireSound: {fileID: 8300000, guid: 6d0d686bc2f619147b4cbc09a7f5c05e, type: 3}
+  - RifleReloadSound: {fileID: 8300000, guid: c72de1ab7c28dbe4b967b8097c196c6b, type: 3}
+  - GunFireSound: {fileID: 8300000, guid: d777603f09f784d42ae495be44843f17, type: 3}
+  - GunReloadSound: {fileID: 8300000, guid: 3f5c9163377762043a20e90fc2dc4e14, type: 3}
+  - EmptyFireSound: {fileID: 8300000, guid: 82396e48263d28641ba6182da0351193, type: 3}
+  - PlayerMoveSound: {fileID: 8300000, guid: cd399743b002bb645a52208adf18ed16, type: 3}
+  - PlayerRunSound: {fileID: 8300000, guid: 31ab85b36207ce742b01cd6e172b8210, type: 3}
+  - CarWarningAlramSound: {fileID: 8300000, guid: 53ff6c705e548854a89ac3b48409fd1d, type: 3}
+  - ZombieNomallySound: {fileID: 8300000, guid: 655420619f9c74c45919271bb8165999, type: 3}
+  - ZombieRunSound: {fileID: 8300000, guid: e829c879db2e3294e942cfc328855fe9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
